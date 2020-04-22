@@ -10,7 +10,7 @@
 #' @return a list that contains the tabular dataset, a tabular version of the meta-data, the file names of the local data copies, a list of study information (abstract, copy rights, method notes)
 #' @export
 #' 
-#' @importFrom EML. read.eml
+#' @importFrom EML read_eml
 
 readSuding <- function(dataDir = 'data/Suding2019', verbose = FALSE){
   #dataDir <- 'data/Suding2019'
