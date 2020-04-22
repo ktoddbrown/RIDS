@@ -1,0 +1,183 @@
+data_set_name,download_type,download_urls
+Groffman2012,datafile,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-hbr%2F197%2F4%2Ff6a818339216aa8ad7174fe7bf5d370e
+Groffman2012,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-hbr%2F197%2F4
+Groffman2012,package report,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-hbr%2F197%2F4
+Alber2020,datafile,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-gce%2F701%2F5%2F1d752706c19279ba14963a1961cc4768.csv
+Alber2020,metadata,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-gce%2F701%2F5.xml
+Alber2020,package report,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-gce%2F701%2F5.xml
+Avolio2019,datafile,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-knz%2F127%2F2%2F8e254ef79b10d53bb995e6e479d9d1af.csv
+Avolio2019,datafile,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-knz%2F127%2F2%2F904b175920ac68a39f68969138b82475.csv
+Avolio2019,metadata,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-knz%2F127%2F2.xml
+Avolio2019,package report,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-knz%2F127%2F2.xml
+Seabloom2018,datafile,https://pasta.lternet.edu/package/data/eml/knb-lter-cdr/634/8/7a0b5f5bd1e98e322c0c7402b6320c57
+Seabloom2018,metadata,https___pasta.lternet.edu_package_metadata_eml_knb-lter-cdr_634_8
+Seabloom2018,package report,https://pasta.lternet.edu/package/report/eml/knb-lter-cdr/634/8
+Reichmann2020,datafile,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-jrn%2F210278001%2F58%2F14c03c941677abfcb477624eadf75d67
+Reichmann2020,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-jrn%2F210278001%2F58
+Reichmann2020,package report,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-jrn%2F210278001%2F58
+Nippert2019,datafile,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-knz%2F11%2F13%2F75363a8b27cddd6b65f859f09686c889
+Nippert2019,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-knz%2F11%2F13
+Nippert2019,package report,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-knz%2F11%2F13
+Vivoni2020,datafile,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-jrn%2F210338004%2F19%2F1e639661d68c2c3c15934ef69a999864
+Vivoni2020,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-jrn%2F210338004%2F19
+Vivoni2020,package report,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-jrn%2F210338004%2F19
+Pegoraro2018,Metadata,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-bnz%2F635%2F10.xml
+Pegoraro2018,package report,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-bnz%2F635%2F10.xml
+Pegoraro2018,datafile,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-bnz%2F635%2F10%2Fe1f5698117bb4a51ebf3455e4e58ffe5.csv
+Kelley2019,datafile,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-bnz%2F519%2F16%2F361c5c01b8c00c1b00005bbf460be3c8.csv
+Kelley2019,metadata,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-bnz%2F519%2F16.xml
+Kelley2019,package report,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-bnz%2F519%2F16.xml
+Garnello2019,metadata,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-bnz%2F638%2F10.xml
+Garnello2019,package report,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-bnz%2F638%2F10.xml
+Garnello2019,datafile,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-bnz%2F638%2F10%2Fca4d49b4a18f18ac715f4ba150c68022.csv
+Doran2020,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-mcm%2F68%2F10
+Doran2020,package report,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-mcm%2F68%2F10
+Doran2020,datafile,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-mcm%2F68%2F10%2F76751b6f6ffa289845a830d6581d52fe
+Doran2020-2,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-mcm%2F3103%2F6
+Doran2020-2,package report,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-mcm%2F3103%2F6
+Doran2020-2,data file,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-mcm%2F3103%2F6%2F441f152787bf2e93007a48dcab67c559
+Doran2020-2,data file,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-mcm%2F3103%2F6%2Fdf8ef568bf77d44ff61594b81767a9d6
+Gooseff2019,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-mcm%2F2010%2F10
+Gooseff2019,package report ,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-mcm%2F2010%2F10
+Gooseff2019,datafile,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-mcm%2F2010%2F10%2Fa382f128e10a298028c7d4d7080c7f64
+Gooseff2019,datafile,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-mcm%2F2010%2F10%2F623b82fa7ce6bee2d114973afd911944
+Mo2020,metadata,https://data.gulfresearchinitiative.org/metadata/R6.x808.000:0054
+Castaneda2020,metadata,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-fce%2F1227%2F3.xml
+Castaneda2020,package report,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-fce%2F1227%2F3.xml
+Castaneda2020,data file,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-fce%2F1227%2F3%2F3c98a348c07d01715300d76b101b4414.csv
+Castaneda2020,data file,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-fce%2F1227%2F3%2F6e4e9f1ae33f1ae8d66ce85ef0f3db73.csv
+Castaneda2020,data file,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-fce%2F1227%2F3%2F0249c13204f3565725dd5e29fc5ecb83.csv
+Bishop2016,metadata,https://cn.dataone.org/cn/v2/object/71b7d2ae-6bec-4422-933c-709fe8d49174
+Coweeta2019pH,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-cwt%2F1152%2F13
+Coweeta2019pH,packageReport,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-cwt%2F1152%2F13
+Coweeta2019pH,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-cwt%2F1152%2F13%2F45f31d16b1058d586fc3be7207b58053
+Coweeta2019pH,KML,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-cwt%2F1152%2F13%2F79c598907d93fc12d74b29c7cda68d23
+Coweeta2019Phosphorous,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-cwt%2F1153%2F14
+Coweeta2019Phosphorous,packageReport,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-cwt%2F1153%2F14
+Coweeta2019Phosphorous,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-cwt%2F1153%2F14%2F55b1927fdafef39c48e5b73b5d61ea60
+Coweeta2019Phosphorous,KML,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-cwt%2F1153%2F14%2F4447d14c5a2ed4562579df766549b725
+Coweeta2019C_N,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-cwt%2F1148%2F13
+Coweeta2019C_N,packageReport,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-cwt%2F1148%2F13
+Coweeta2019C_N,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-cwt%2F1148%2F13%2F20fa8b4ab429674a30d4e501f7cc2a6c
+Coweeta2019C_N,KML,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-cwt%2F1148%2F13%2Fc7d5be259dcab2e6fb0108bea07d0705
+Munger 2019,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-hfr%2F69%2F31
+Munger 2019,package report,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-hfr%2F69%2F31
+Munger 2019,datafile,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-hfr%2F69%2F31%2F0994d664ffa97bec673e379fbe3f7c09
+Smith 2018,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-jrn%2F210327001%2F1
+Smith 2018,package report,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-jrn%2F210327001%2F1
+Smith 2018,data file,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-jrn%2F210327001%2F1%2F5756fb95abe3e3511af1c267840781e1
+Pelini 2016,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-hfr%2F276%2F2
+Pelini 2016,package report,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-hfr%2F276%2F2
+Pelini 2016,data file,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-hfr%2F276%2F2%2F824ee000f3e3c6c41113e4ccbeb0bc80
+Moriss2020a,metadata,"https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fedi%2F136%2F5.xml', "
+Moriss2020a,package report,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fedi%2F136%2F5.xml
+Moriss2020a,csv data file,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fedi%2F136%2F5%2F7fbe07a9a364e73cdaae941b0362021d.csv
+Morriss2020b,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fedi%2F135%2F4.xml
+Morriss2020b,package report,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fedi%2F135%2F4.xml
+Morriss2020b,data file,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fedi%2F135%2F4%2Ff7302706bfaedae837c60e79fa4757c8.csv
+Morriss2020b,data file,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fedi%2F135%2F4%2F6985230448339d2876bfedc0d61b3628.csv
+Morriss2020b,data file,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fedi%2F135%2F4%2F66cfdd295864bd5e6e9988cc268ad13f.csv
+Suding2019,data,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-nwt%2F265%2F1%2F9a2e3f9fc5a38f5831065088ee9a75bf.csv
+Suding2019,metadata,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-nwt%2F265%2F1.xml
+Suding2019,packageReport,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-nwt%2F265%2F1.xml
+Brigham2019,data,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-nwt%2F245%2F1%2Fae8a3776fb02d85e425c73364ac4e343.csv
+Brigham2019,metadata,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-nwt%2F245%2F1.xml
+Brigham2019,packageReport,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-nwt%2F245%2F1.xml
+Brigham2019,data,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-nwt%2F248%2F1%2F938009337a8fa3e014d1f4da3d6ed726.csv
+Brigham2019,metadata,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-nwt%2F248%2F1.xml
+Brigham2019,packageReport,https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-nwt%2F248%2F1.xml
+Craft2006,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-gce%2F276%2F23%2F12de76c2e224a02aefdf674fb814ccaa
+Craft2006,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-gce%2F276%2F23
+Craft2006,packageReport,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-gce%2F276%2F23
+USGSAltamaha,data and metadata,https://waterdata.usgs.gov/nwis/dv/?site_no=02226000&agency_cd=USGS&amp;referred_module=sw
+Joye2009,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-gce%2F316%2F20%2F304a499938feaf0e01acecf5228b23d5
+Joye2009,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-gce%2F316%2F20
+Joye2009,packageReport,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-gce%2F316%2F20
+Fourqurean2017,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-knz%2F50%2F13%2F330657133c2c8699171f36affd9b4862
+Fourqurean2017,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-knz%2F50%2F13
+Fourqurean2017,packageReport,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-knz%2F50%2F13
+Childers2018,data,https://cn.dataone.org/cn/v2/resolve/https://pasta.lternet.edu/package/data/eml/knb-lter-fce/1130/4/bc7b9dbe79dc89cf5258cba152573376
+Childers2018,metadata,https://cn.dataone.org/cn/v2/resolve/https://pasta.lternet.edu/package/metadata/eml/knb-lter-fce/1130/4
+Childers2018,packageReport,https://cn.dataone.org/cn/v2/resolve/https://pasta.lternet.edu/package/report/eml/knb-lter-fce/1130/4
+Fourqurean2019,data,https://cn.dataone.org/cn/v2/resolve/https://pasta.lternet.edu/package/data/eml/knb-lter-fce/1128/6/fd59e02955a4d6e5db093f8f823dd027
+Fourqurean2019,metadata,https://cn.dataone.org/cn/v2/resolve/https://pasta.lternet.edu/package/metadata/eml/knb-lter-fce/1128/6
+Fourqurean2019,packageReport,https://cn.dataone.org/cn/v2/resolve/https://pasta.lternet.edu/package/report/eml/knb-lter-fce/1128/6
+Kratz2005,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-ntl%2F99%2F7
+Kratz2005,packageReport,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-ntl%2F99%2F7
+Kratz2005,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-ntl%2F99%2F7%2Flpp_hglvl_data
+Greenfield2005,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-ntl%2F98%2F7
+Greenfield2005,packageReport,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-ntl%2F98%2F7
+Greenfield2005,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-ntl%2F98%2F7%2Flpp_com1_data
+Fry2011,metadata,https://cn.dataone.org/cn/v2/resolve/doi%3A10.5063%2FAA%2Fknb.279.1
+Zou2010,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-luq%2F91%2F346001
+Zou2010,packageReport,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-luq%2F91%2F346001
+Zou2010,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-luq%2F91%2F346001%2F1b9dcd92dbf357f5629b1b910986490c
+Zou2010,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-luq%2F91%2F346001%2Ffc7b96d120bd91c785c271b44115076f
+Zou2010,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-luq%2F91%2F346001%2Fa9b8b5ee2d6f01809eca5311bb87d76d
+Szlavecz2010,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-bes%2F549%2F160
+Szlavecz2010,packageReport,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-bes%2F549%2F160
+Szlavecz2010,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-bes%2F549%2F160%2F8e6890b810e36c35bd1993aff2167324
+Gasier2009,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-fce%2F1060%2F8%2F0938f088fab07247907e6776b0b4daec.csv
+Gasier2009,packagereport,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-fce%2F1060%2F8.xml
+Gasier2009,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-fce%2F1060%2F8.xml
+Ratacjzak2020,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-knz%2F69%2F17%2F63768b48f41e790a40e7fa4f9267c3a2.csv
+Ratacjzak2020,metadata,https://cn.dataone.org/cn/v2/resolve/ https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-knz%2F69%2F17.xml 
+Ratacjzak2020,packagereport,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-knz%2F69%2F17.xml 
+Chambers2018,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-fce%2F1127%2F8
+Chambers2018,packageReport,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-fce%2F1117%2F4
+Chambers2018,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-fce%2F1117%2F4%2Fc6c876506180832bda10ae8a2a27e330
+Castaneda2005,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-fce%2F1117%2F4
+Castaneda2005,packageReport,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-fce%2F1117%2F4
+Castaneda2005,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-fce%2F1117%2F4%2Fc6c876506180832bda10ae8a2a27e330
+Mead2004,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-fce%2F1163%2F2
+Mead2004,packageReport,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-fce%2F1163%2F2
+Mead2004,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-fce%2F1163%2F2%2Fe49fd8c1c4b29611ba55eb24fcfb543e
+Helser2016,data,https://cn.dataone.org/cn/v2/resolve/954b3d37-df3c-4c11-a191-994099baa868
+Helser2016,metadata,https://cn.dataone.org/cn/v2/resolve/10.24431_rw1k43w_202036185540
+Helser2016,packageReport,https://cn.dataone.org/cn/v2/resolve/63a260bf-b7ce-4d9c-90b9-ab270cf67676
+Lyon2019,metadata,https://cn.dataone.org/cn/v2/resolve/10.24431_rw1k33f_2019122023110
+Lyon2019,data,https://cn.dataone.org/cn/v2/resolve/1d551ce4-afa8-4176-8508-88c23480ad8e
+Gross2019,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-luq%2F204%2F13%2Fcf7b7d555b3b892582bfa2aa2e1da7c1
+Gross2019,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-luq%2F204%2F13
+Gross2019,packageReport,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-luq%2F204%2F13
+Georgia2013,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-gce%2F442%2F9%2F68435ab846149df66dff07e50c526ea1
+Georgia2013,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-gce%2F442%2F9
+Georgia2013,packageReport,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-gce%2F442%2F9
+Arora2019,data,https://cn.dataone.org/cn/v2/resolve/ess-dive-2d6119e7b619c9b-20190405T054726335
+Arora2019,data,https://cn.dataone.org/cn/v2/resolve/ess-dive-adb0b947f2dea1f-20190405T054726423
+Arora2019,metadata,https://cn.dataone.org/cn/v2/resolve/ess-dive-da8020dcc6865cd-20190430T181951888526
+Brewer2018,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fedi%2F242%2F3
+Brewer2018,packageReport,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fedi%2F242%2F3
+Brewer2018,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fedi%2F242%2F3%2Feea068d3c372908902be080ec728c30f
+Brewer2018,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fedi%2F242%2F3%2F9da56858daeb069223cdcec8319c7a83
+Rice2018,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-knz%2F53%2F7%2F2dc20cee0cbb72c2a3f46fc8d33eba76
+Rice2018,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-knz%2F53%2F7
+Rice2018,package report,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-knz%2F53%2F7
+Rice2019,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-knz%2F58%2F8%2F74d39d0611c275e9d5c02d6e47286b38
+Rice2019,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-knz%2F58%2F8
+Rice2019,package report,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-knz%2F58%2F8
+Rice2019,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-knz%2F59%2F8%2Fe7fb423b3d42747d542932ac3bc705ca
+Rice2019,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-knz%2F59%2F8
+Rice2019,package report,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-knz%2F59%2F8
+Brown2013,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-bnz%2F549%2F4
+Brown2014,package report,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-bnz%2F549%2F4
+Brown2014,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-bnz%2F549%2F4%2F5b8f51bc03f3e816bb41700b53010e0e
+Howard2020,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-fce%2F1228%2F2
+Howard2020,package report,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-fce%2F1228%2F2
+Howard2020,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-fce%2F1228%2F2%2F06cf57a513ea48bcf94e93b2df94f030
+Howard2020,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-fce%2F1228%2F2%2Fea42cda71af1f5725280ef22d3e29aca
+Wall2014,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fknb-lter-mcm%2F4003%2F5
+Wall2014,package report,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fknb-lter-mcm%2F4003%2F5
+Wall2014,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fknb-lter-mcm%2F4003%2F5%2F4cb8f51882580e3dcaad294617cba14d
+Armitage2020,data,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fedi%2F460%2F1%2F30a8d47b7f97f144c97f11bb04c9e9ad.csv 
+Armitage2020,package,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fedi%2F460%2F1.xml 
+Armitage2020,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fedi%2F460%2F1.xml
+Feldsine2020,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fedi%2F458%2F2.xml 
+Feldsine2020,package,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fedi%2F458%2F2.xml 
+Feldsine2020,data1,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fedi%2F458%2F2%2F2e55a1be6c72a87e358195bbcebe4e60.csv 
+Feldsine2020,data2,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fedi%2F458%2F2%2F41970f4dfdf288570bcda6e3214029a7.csv 
+Lesmeister2020,metadata,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fedi%2F398%2F3.xml
+Lesmeister2020,package,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Freport%2Feml%2Fedi%2F398%2F3.xml 
+Lesmeister2020,data1,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fedi%2F398%2F3%2Fb8ca689bfc2160a075f8714d5b274dc9.csv 
+Lesmeister2020,data2,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fedi%2F398%2F3%2Fb120d4c16bbd23df49d75151e9dd6b52.csv 
+Lesmeister2020,data3,https://cn.dataone.org/cn/v2/resolve/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fdata%2Feml%2Fedi%2F398%2F3%2Fb36ad2883a6e852ddce4afbfb121518a.csv
