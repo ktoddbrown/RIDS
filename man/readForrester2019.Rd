@@ -8,6 +8,8 @@ readForrester2019(dataDir = "data/Forrester2019", verbose = FALSE)
 }
 \arguments{
 \item{dataDir}{string that specifies the data directory}
+
+\item{verbose}{boolean flag to print out useful debugging statements}
 }
 \value{
 a list that contains the tabular dataset, a tabular version of the meta-data, the file names of the local data copies, a list of study information (abstract, copy rights, method notes)
