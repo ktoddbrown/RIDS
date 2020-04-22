@@ -3,7 +3,7 @@
 #'  Reads in data from Chiara Forrester and Niwot Ridge LTER. 2019. Soil moisture and snowdepth measurements in the Black Sand experiment for East Knoll, Audubon, Lefty, Soddie and Trough, 2018 - ongoing. LTER Network Member Node. https://pasta.lternet.edu/package/metadata/eml/knb-lter-nwt/181/2.
 #'
 #' @param dataDir string that specifies the data directory
-#' @param verbose a boolean flag to print out useful debugging statements
+#' @param verbose boolean flag to print out useful debugging statements
 #'
 #' @return a list that contains the tabular dataset, a tabular version of the meta-data, the file names of the local data copies, a list of study information (abstract, copy rights, method notes)
 #' @export
