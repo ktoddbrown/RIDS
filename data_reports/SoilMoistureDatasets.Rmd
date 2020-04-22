@@ -1,0 +1,163 @@
+---
+title: "Data report: Soil moisture"
+author: "K Todd-Brown (ktoddbrown@[UF email])"
+date: "3/12/2020"
+output: html_document
+---
+
+```{r setup, message=FALSE, warning=FALSE}
+library(tidyverse) # manage data
+library(EML) # read in EML meta data
+library(knitr) # make pretty tables using kable
+library(RIDS)
+```
+
+This file identifies, downloads and intakes two data sets that both have soil mositure measurements.
+
+# Download and read datasets
+
+
+
+```{r readData, message=FALSE}
+Groffman.ls <- RIDS::readGroffman2020(dataDir = 'data/Groffman2012', verbose=FALSE)
+Forrester.ls <- RIDS::readForrester2019(dataDir = 'data/Forrester2019')
+```
+
+## Groffman 2012
+
+__ABSTRACT__: `r Groffman.ls$studyInfo$abstract`
+
+```{r cleanDataGroffman}
+Groffman.ls$data <- Groffman.ls$data %>%
+  mutate_at(c('Project', 'Season', 'Horizon', 'Sample'), as.factor) %>%
+  select(-DEA) #No variation in enzyme activity so remove it here
+```
+
+The microbial biomass, resperation, and water content appear to have strong horizon dependencies.
+
+```{r summaryGroffman, fig.width=8*2, fig.height=6}
+knitr::kable(summary(Groffman.ls$data))
+knitr::kable(Groffman.ls$meta)
+
+plot.df <-  Groffman.ls$data %>%
+  pivot_longer(BIOC:H2O) %>%
+  left_join(Groffman.ls$meta, by='name')
+
+ggplot(plot.df) +
+  geom_histogram(aes(x=value)) +
+  facet_grid(Horizon~name + description + unit, scales = 'free')
+```
+
+## Forrester 2019
+
+
+__ABSTRACT__: `r Forrester.ls$studyInfo$abstract`
+
+```{r cleanDataForrester}
+Forrester.ls$data1 <- Forrester.ls$data1 %>%
+  mutate_at(c('site', 'time_period', 'treatment', 'location'), as.factor)
+
+Forrester.ls$data2 <- Forrester.ls$data2 %>%
+  mutate_at(c('site', 'treatment', 'location'), as.factor) %>% 
+  mutate(snow_depth = as.numeric(gsub('>', '', snow_depth))) 
+```
+
+The microbial biomass, resperation, and water content appear to have strong horizon dependencies.
+
+```{r summaryForrester}
+knitr::kable(summary(Forrester.ls$data1 ))
+knitr::kable(summary(Forrester.ls$data2))
+knitr::kable(Forrester.ls$meta)
+
+ggplot(Forrester.ls$data1) +
+  geom_histogram(aes(x=VWC))+
+  facet_wrap(~treatment)
+
+ggplot(Forrester.ls$data2) +
+  geom_histogram(aes(x=snow_depth)) +
+  facet_wrap(~treatment)
+```
+
+
+# Harmonizing data
+
+## merge Forrester
+
+```{r mergeForrester}
+# transfer probe type to the meta data
+Forrester.ls$meta$description[Forrester.ls$meta$name == 'probe'] <- paste0(Forrester.ls$meta$description[Forrester.ls$meta$name == 'probe'], '. Probe type is:', unique(Forrester.ls$data1$probe))
+# remove probe type from data file
+Forrester.ls$data1$probe <- NULL
+
+temp1 <- Forrester.ls$data1 %>%
+  pivot_longer(cols = c('VWC'), values_to = 'value_numerical')
+
+temp2 <- Forrester.ls$data2 %>%
+  select(-comments) %>%
+  pivot_longer(cols=c('snow_depth'), values_to = 'value_numerical')
+
+Forrester.ls$merged_data <- Forrester.ls$data2 %>%
+  select(-snow_depth) %>%
+  pivot_longer(cols=c('comments'), values_to = 'value_text') %>%
+  bind_rows(temp2) %>%
+  bind_rows(temp1)
+
+```
+
+## merge Forrester with Groffman
+
+Make Groffman long data format
+
+```{r}
+Groffman.ls$long_data <- Groffman.ls$data %>%
+  pivot_longer(cols=BIOC:H2O, values_to = 'value_numerical') %>%
+  rename('date' = 'Date')
+```
+
+Merge Groffman with Forrester
+
+```{r}
+soilMoistureData <- Groffman.ls$long_data %>%
+  bind_rows(Forrester.ls$merged_data)
+
+#create a new metadata for this merged dataframe.
+
+metaData <- Forrester.ls$meta %>%
+  bind_rows(Groffman.ls$meta)
+
+temp <- soilMoistureData %>%
+  left_join(metaData, by = 'name') %>%
+  filter(!is.na(value_numerical) | (value_text != 'NaN' & !is.na(value_text)))
+
+temp2 <- metaData %>%
+  filter(!(name %in% c(unique(temp$name), 'DEA', 'Date')))
+
+merged.ls <- list(data = temp, meta = temp2)
+```
+
+## Data visulization
+
+Common between the two data sets are water content measurements.
+Groffman has a "Gravimetric water content gram water Per gram wet soil"
+and Forrester has "volumetric water content" volumne water per volumne wet soil
+```{r}
+
+plot.df <- soilMoistureData %>% 
+  filter(name %in% c('H2O', 'VWC'))
+
+ggplot(plot.df) +
+  geom_point(aes(x=lubridate::yday(date), y=value_numerical)) +
+  facet_grid(treatment~name, scales='free')
+
+```
+
+
+
+
+
+
+
+
+
+
+
