@@ -10,6 +10,7 @@
 #' @export
 #'
 #' @importFrom EML read_eml
+#' @importFrom  readr read_csv
 readNippert2019 <- function(dataDir = 'data/Nippert2019' , verbose = FALSE){
 
   ##### Download data files #####
